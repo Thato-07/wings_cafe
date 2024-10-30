@@ -1,0 +1,27 @@
+/* App.css */
+
+/* Center content in AuthPage */
+.authPage {
+  text-align: center;
+  margin-top: 10%;
+  font-size: 18px;
+}
+
+/* Header styles for MainContent */
+.mainHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #f4f4f4;
+}
+
+/* Styling for buttons in MainContent */
+.mainButton {
+  margin: 0 10px;
+}
+
+/* Dashboard styles */
+.dashboard {
+  font-size: 20px;
+}
